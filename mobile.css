@@ -1,0 +1,425 @@
+@media (max-width: 475px) {
+    body {
+        font-size: 14px;
+    }
+    .container {
+        width: 100%;
+    }
+    .navbar {
+        padding: 0;
+    }
+    .shopping-cart {
+        padding: 13px 10px;
+    }
+    .shopping-cart img {
+        width: 20px;
+    }
+    .logo-text-main {
+        font-size: 18px;
+        line-height: normal;
+    }
+    .logo-text-sub {
+        font-size: 6px;
+        line-height: 8px;
+        letter-spacing: 0.05em;
+    }
+    footer {
+        font-size: 12px;
+        padding: 40px 0 20px;
+    }
+    footer .logo-text-main {
+        font-size: 20px;
+    }
+    footer .logo-text-sub {
+        font-size: 7px;
+        line-height: 9px;
+        letter-spacing: 0.02em;
+    }
+    .copyright {
+        line-height: 25px;
+        margin-top: 15px;
+    }
+    footer .navbar-brand {
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+    footer .nav-item .nav-link {
+        line-height: 18px;
+    }
+    footer .main-link {
+        font-family: 'GothamProMedium';
+        font-size: 14px;
+        line-height: 18px!important;
+        margin: 25px 0 0;
+    }
+    footer .nav-item.info {
+        line-height: 18px;
+        margin-top: 10px;
+    }
+    .shedule .info {
+        line-height: 24px;
+        margin-bottom: 0;
+    }
+    .btn-link-custom, .btn-submit-custom {
+        height: 36px;
+        font-size: 14px;
+        line-height: 15px;
+        padding: 10px 20px;
+    }
+    .btn-submit-custom {
+        width: 120px;
+    }
+    section {
+        padding: 0 0 80px;
+    }
+    h1 {
+        font-size: 24px;
+        line-height: 25px;
+        margin: 25px 0 15px;
+    }
+    h2 {
+        font-size: 18px;
+        line-height: 21px;
+        margin: 25px 0 15px;
+    }
+    h3 {
+        font-size: 20px;
+        line-height: 23px;
+        margin-bottom: 15px;
+    }
+    h4 {
+        font-size: 18px;
+        line-height: 21px;
+        margin-bottom: 15px;
+    }
+    h5 {
+        font-size: 14px;
+        line-height: 13px;
+        letter-spacing: 0.05em;
+    }
+    p {
+        font-size: 12px;
+        line-height: 16px;
+        letter-spacing: normal;
+        margin-bottom: 15px;
+    }
+    label {
+        font-size: 10px;
+        line-height: 10px;
+        margin-bottom: 5px;
+    }
+    .form-control {
+        height: 40px;
+        margin-bottom: 12px;
+    }
+    small {
+        font-size: 14px;
+        margin-left: 15px;
+    }
+    .cart-empty img {
+        margin: 15px 0 30px;
+    }
+    .nav-tabs {
+        margin: 0 0 16px;
+    }
+    .nav-tabs .nav-link {
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .address {
+        margin: 25px 0;
+    }
+    .address h6 {
+        margin-bottom: 15px;
+    }
+    .address-note {
+        margin-bottom: 25px;
+    }
+    .address-note p {
+        line-height: 16px;
+    }
+    .address-note a {
+        margin-right: 20px;
+    }
+    .form-text {
+        font-size: 10px;
+        line-height: 13px;
+        letter-spacing: normal;
+    }
+    .section-order h1 {
+        margin-bottom: 5px;
+    }
+    .orderProcess {
+        margin-bottom: 0;
+    }
+    .order-summary {
+        border: 2px solid #DACDB8;
+        padding: 15px 10px;
+    }
+    .orderPrice h4 span {
+        font-size: 14px;
+    }
+    .deliveryPrice h5 span {
+        font-size: 12px;
+    }
+    .totalPrice h3 span {
+        font-size: 16px;
+    }
+    .text-help {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .title-help {
+        font-size: 10px;
+        line-height: 13px;
+        margin-bottom: 0;
+    }
+    .line {
+        margin: 25px 0 10px;
+    }
+    .order-summary h3 {
+        margin-bottom: 15px;
+    }
+    .order-summary a {
+        margin-bottom: 10px;
+    }
+    .product {
+        margin-bottom: 116px;
+    }
+    .product-tab {
+        width: 248px;
+        height: 116px;
+        bottom: -86px;
+        padding: 10px 15px 15px;
+    }
+    .tab-normal {
+        right: 15px;
+    }
+    .tab-narrow1, .tab-narrow2 {
+        left: 15px;
+        right: auto;
+    }
+    .tab-wide1, .tab-wide2 {
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    .product-tab h2 {
+        margin: 0 0 8px;
+    }
+    .product-info-small {
+        font-size: 10px;
+        line-height: 10px;
+    }
+    .product-info-small img {
+        width: 20px;
+    }
+    .product-card-wrapper .product-info-small {
+        letter-spacing: normal;
+    }
+    .product-card-wrapper .product-info-small:first-of-type {
+        margin-right: 0;
+    }
+    .product-price {
+        font-size: 18px;
+        line-height: 17px;
+        margin: 18px 0 7px;
+    }
+    .product-price span {
+        font-size: 14px;
+        letter-spacing: 0.05em;
+    }
+    .add-to-cart {
+        right: 15px;
+        bottom: 15px;
+    }
+    .cart-icon, .arrow-icon {
+        width: 36px;
+        height: 36px;
+    }
+    .order-history {
+        border: 1px solid #DACDB8;
+        padding: 0 10px;
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .order-history:first-of-type {
+        margin-top: 0;
+    }
+    .history-top {
+        padding: 10px 0;
+    }
+    .history-top li {
+        font-size: 12px;
+        letter-spacing: normal;
+        margin-right: 20px;
+    }
+    .order-history .order-product {
+        padding: 15px 0;
+    }
+    .order-product {
+        padding: 10px;
+        margin-bottom: 20px;
+    }
+    .product-image {
+        height: 122px;
+    }
+    .product-info-wrapper {
+        margin: 15px 0 20px;
+    }
+    .product-name {
+        font-size: 14px;
+        line-height: 13px;
+        letter-spacing: 0.05em;
+        margin-bottom: 8px;
+    }
+    .product-info {
+        font-size: 12px;
+        line-height: 11px;
+    }
+    .product-totalPrice {
+        font-size: 18px;
+        line-height: 13px;
+        margin-bottom: 4px;
+    }
+    .product-totalPrice span {
+        font-size: 12px;
+    }
+    .product-quantity {
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.05em;
+    }
+    .product-delete {
+        width: 26px;
+        height: 30px;
+        top: auto;
+        bottom: 10px;
+        right: 10px;
+    }
+    .user-logout  {
+        bottom: 10%;
+        font-size: 12px;
+    }
+    .product-removeFav {
+        right: 10px;
+        bottom: 15px;
+        top: auto;
+    }
+    .product-bigImage {
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        width: 100%;
+        height: 200px;
+        position: relative;
+    }
+    .header-w50 {
+        width: 100%;
+    }
+    .breadcrumb {
+        padding: 25px 0 30px;
+        font-size: 10px;
+        line-height: 18px;
+    }
+    .product-card .breadcrumb {
+        padding: 25px 0 30px;
+    }
+    .product-card-wrapper {
+        padding: 0;
+    }
+    .product-smallImage {
+        padding: 0;
+    }
+    .sticker {
+        height: 15px;
+        font-size: 10px;
+        line-height: 11px;
+        padding: 3px 4px;
+    }
+    .product .sticker {
+        top: 10px;
+        left: 25px;
+    }
+    .product-title {
+        font-size: 36px;
+        line-height: 41px;
+        margin: 5px 0 10px;
+    }
+    .options-wrapper {
+        margin: 40px 0 0;
+    }
+    .options {
+        width: 100%;
+    }
+    .description {
+        width: 100%;
+        font-size: 12px;
+        line-height: 16px;
+        padding: 10px 15px;
+        border-left: 0;
+    }
+    .option {
+        padding: 10px 15px;
+        font-size: 12px;
+        line-height: 13px;
+    }
+    .option:last-of-type {
+        border-bottom: 1px solid #DACDB8;
+    }
+    .card-price {
+        font-size: 24px;
+        margin-bottom: 7px;
+    }
+    .card-price span {
+        font-size: 18px;
+    }
+    .card-info {
+        font-size: 14px;
+        line-height: 13px;
+    }
+    .btn-img {
+        background-size: 18px;
+        margin-left: 10px;
+    }
+    .product-card-wrapper .btn-link-custom {
+        padding: 10px;
+        margin-right: 0;
+    }
+    .product-card-wrapper .btn-submit-custom {
+        padding-left: 50px!important;
+        padding-right: 0!important;
+    }
+    .modal-dialog {
+        max-width: 100%;
+        margin-top: 0;
+    }
+    .modal-body h2 {
+        margin: 0 0 15px;
+    }
+    .modal-body {
+        height: 100vh;
+        padding: 122px 30px 30px;
+    }
+    .modal-body .text-help {
+        font-size: 12px;
+        line-height: 16px;
+        margin-bottom: 25px;
+    }
+    .modal-body small {
+        font-size: 10px;
+        line-height: 13px;
+        margin-top: 8px;
+    }
+    .modal-body .btn-submit-custom {
+        width: 120px;
+    }
+    button.close {
+        position: absolute;
+        top: 37px;
+        right: 30px;
+    }
+    .w-50-m {
+        width: 50%;
+    }
+}
